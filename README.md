@@ -1,6 +1,6 @@
 # Neander
 
-Objective: Write a program for the Neander simulator that receives an 8-bit number and shift and rotate left it.
+Objective: Write a program in assembly for the Neander simulator that receives an 8-bit number and shift and rotate left it.
 
 How to use:
  
