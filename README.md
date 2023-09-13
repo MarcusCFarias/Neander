@@ -10,4 +10,4 @@ How to use:
  - Position 130: number 0 (for shifting) or 1 (for rotating)
  - Position 131: output
  
-Note: It helps to think how a computer works. University project.
+Note: University project.
